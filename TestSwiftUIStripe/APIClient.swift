@@ -6,7 +6,7 @@ class APIClient: ConnectionTokenProvider {
     // For simplicity, this example class is a singleton
     static let shared = APIClient()
 
-    static let backendUrl = URL(string: "https://stripe-one-time-payment-lob.herokuapp.com/")!
+    static let backendUrl = URL(string: "https://orion-stripe-test.herokuapp.com/")!
 //    static let backendUrl = URL(string: "http://127.0.0.1:5000")!
 
     func fetchConnectionToken(_ completion: @escaping ConnectionTokenCompletionBlock) {

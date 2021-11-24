@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "StripeTerminal",
+        "repositoryURL": "https://github.com/stripe/stripe-terminal-ios",
+        "state": {
+          "branch": "master",
+          "revision": "c1ff95a18e22a96cca5d21a7d20ced9d546ff3f5",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
